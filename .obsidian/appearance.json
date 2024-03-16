@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "canvas"
+  ],
+  "cssTheme": "Border",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}
