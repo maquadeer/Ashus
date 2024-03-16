@@ -166,6 +166,11 @@
   },
   "active": "8c79914f79f7a531",
   "lastOpenFiles": [
+    "cn/CN-3.canvas",
+    "cn/CN-1.canvas",
+    "cn/cn-2.canvas",
+    "cn",
+    "README.md",
     "Images",
     "HOME/bg.png",
     "HOME/HOME.md",
@@ -214,12 +219,8 @@
     "RECORD/4/3. Study of Prolog, its facts, and rules..md",
     "RECORD/3/b. A* Algorithm.md",
     "RECORD/3/2. Write a program to implement Informed search techniques.md",
-    "RECORD/2/b. DFS.md",
     "RECORD/6",
     "RECORD/Untitled",
-    "RECORD/5",
-    "RECORD/4",
-    "AI/Untitled.canvas",
-    "LAB/Untitled.canvas"
+    "AI/Untitled.canvas"
   ]
 }
