@@ -1,13 +1,15 @@
 {
 	"nodes":[
 		{"id":"75a974fb292ab8bb","type":"text","text":"# BASICS","x":-240,"y":-300,"width":250,"height":60,"color":"4"},
-		{"id":"5540fb427663c512","x":-600,"y":-140,"width":400,"height":186,"type":"file","file":"Images/Pasted image 20240317134856.png"},
-		{"id":"797ce47591ef71ed","x":-600,"y":46,"width":400,"height":292,"type":"file","file":"Images/Pasted image 20240317152456.png"},
-		{"id":"9659b755d12568bd","x":-600,"y":338,"width":400,"height":284,"type":"file","file":"Images/Pasted image 20240317152827.png"},
-		{"id":"28b2e2bba07d3db1","x":-600,"y":622,"width":400,"height":284,"type":"file","file":"Images/Pasted image 20240317160046.png"},
-		{"id":"fd2dbb7e566790db","x":-600,"y":906,"width":400,"height":284,"type":"file","file":"Images/Pasted image 20240317161049.png"}
+		{"id":"5540fb427663c512","type":"file","file":"Images/Pasted image 20240317134856.png","x":-600,"y":-140,"width":400,"height":186},
+		{"id":"797ce47591ef71ed","type":"file","file":"Images/Pasted image 20240317152456.png","x":-600,"y":46,"width":400,"height":292},
+		{"id":"9659b755d12568bd","type":"file","file":"Images/Pasted image 20240317152827.png","x":-600,"y":338,"width":400,"height":284},
+		{"id":"28b2e2bba07d3db1","type":"file","file":"Images/Pasted image 20240317160046.png","x":-600,"y":622,"width":400,"height":284},
+		{"id":"fd2dbb7e566790db","type":"file","file":"Images/Pasted image 20240317161049.png","x":-600,"y":906,"width":400,"height":284},
+		{"id":"e49b2e5386c4c6d0","x":-115,"y":-140,"width":400,"height":272,"type":"file","file":"Images/Pasted image 20240317161344.png"}
 	],
 	"edges":[
-		{"id":"1a3cfa9714ec6402","fromNode":"75a974fb292ab8bb","fromSide":"bottom","toNode":"5540fb427663c512","toSide":"top","label":"Portion glance"}
+		{"id":"1a3cfa9714ec6402","fromNode":"75a974fb292ab8bb","fromSide":"bottom","toNode":"5540fb427663c512","toSide":"top","label":"basics"},
+		{"id":"eaefe24b651ae434","fromNode":"75a974fb292ab8bb","fromSide":"bottom","toNode":"e49b2e5386c4c6d0","toSide":"top","label":"FA"}
 	]
 }
