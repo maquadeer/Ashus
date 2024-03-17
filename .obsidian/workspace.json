@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f32a70615cc1e451",
+        "id": "f193353b0d7f7db8",
         "type": "tabs",
         "children": [
           {
-            "id": "4fdd32c9c2beeb63",
+            "id": "1d2b98689c572cdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HOME/Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "ALC/ALC-1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 507.5999984741211,
+                  "zoom": -2
+                }
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME/Home.md",
+                "file": "ALC/ALC-1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME/Home.md",
+                "file": "ALC/ALC-1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME/Home.md"
+                "file": "ALC/ALC-1.canvas"
               }
             }
           }
@@ -164,8 +167,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c79914f79f7a531",
+  "active": "1d2b98689c572cdf",
   "lastOpenFiles": [
+    "Images/Pasted image 20240317161049.png",
+    "Images/Pasted image 20240317160046.png",
+    "Images/Pasted image 20240317152827.png",
+    "Images/Pasted image 20240317152456.png",
+    "Images/Pasted image 20240317134856.png",
+    "Images/Pasted image 20240317134851.png",
+    "HOME/Home.md",
+    "ALC/ALC-1.canvas",
+    "ALC",
     "cn/CN-3.canvas",
     "cn/CN-1.canvas",
     "cn/cn-2.canvas",
@@ -174,7 +186,6 @@
     "Images",
     "HOME/bg.png",
     "HOME/HOME.md",
-    "HOME/Home.md",
     "HOME/Untitled Kanban.md",
     "CN/CN-3.canvas",
     "CN/CN-4.canvas",
@@ -185,13 +196,7 @@
     "images/Pasted image 20240314162846.png",
     "images/Pasted image 20240314155917.png",
     "images/Pasted image 20240314155115.png",
-    "images/Pasted image 20240314154943.png",
-    "images/Pasted image 20240314154752.png",
-    "images/Pasted image 20240314154717.png",
-    "images/Pasted image 20240314154618.png",
-    "images/Pasted image 20240314153430.png",
     "SE/SE-1.canvas",
-    "SE/Untitled.canvas",
     "SE",
     "CN/CN-1.md",
     "images",
@@ -219,8 +224,6 @@
     "RECORD/4/3. Study of Prolog, its facts, and rules..md",
     "RECORD/3/b. A* Algorithm.md",
     "RECORD/3/2. Write a program to implement Informed search techniques.md",
-    "RECORD/6",
-    "RECORD/Untitled",
-    "AI/Untitled.canvas"
+    "RECORD/6"
   ]
 }
