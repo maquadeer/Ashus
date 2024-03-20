@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"fda026df1446b2a0","type":"group","x":260,"y":-580,"width":2060,"height":719,"color":"4","label":"AGENTS"},
+		{"id":"a42ec47263955d46","type":"file","file":"Images/Pasted image 20240320092551.png","x":1500,"y":-78,"width":400,"height":183},
+		{"id":"d8e50f37af4647f6","type":"file","file":"Images/Pasted image 20240320092604.png","x":1900,"y":-76,"width":400,"height":183},
+		{"id":"062f876e5b1e54f7","type":"file","file":"Images/Pasted image 20240320092636.png","x":1500,"y":-160,"width":400,"height":82},
+		{"id":"9275016b968377bb","type":"file","file":"Images/Pasted image 20240320092704.png","x":680,"y":-178,"width":399,"height":103},
+		{"id":"dc76566415be2b60","type":"file","file":"Images/Pasted image 20240320092723.png","x":1900,"y":-126,"width":397,"height":45},
+		{"id":"448cd68837386cab","type":"file","file":"Images/Pasted image 20240320092621.png","x":1040,"y":-560,"width":400,"height":247},
+		{"id":"628680819923256f","type":"file","file":"Images/Pasted image 20240320092509.png","x":280,"y":-178,"width":399,"height":212},
+		{"id":"8aff1db948332a54","type":"link","url":"https://www.javatpoint.com/turing-test-in-ai","x":-320,"y":-272,"width":480,"height":400},
+		{"id":"413a3e535373604c","type":"file","file":"Images/Pasted image 20240320053319.png","x":-280,"y":-472,"width":400,"height":193},
+		{"id":"ee8d6cfadf0248ce","type":"file","file":"Images/Pasted image 20240320092523.png","x":680,"y":-80,"width":400,"height":187},
+		{"id":"a0c9d0851a258719","type":"file","file":"Images/Pasted image 20240320092536.png","x":1100,"y":-80,"width":400,"height":199},
+		{"id":"f4bf048c2e56f034","type":"file","file":"Images/Pasted image 20240320092650.png","x":1100,"y":-162,"width":400,"height":82},
+		{"id":"342ee00e15628e58","type":"file","file":"Images/Pasted image 20240320121141.png","x":2360,"y":-573,"width":370,"height":492}
+	],
+	"edges":[
+		{"id":"cfd2f796221a1273","fromNode":"448cd68837386cab","fromSide":"bottom","toNode":"628680819923256f","toSide":"top","label":"simp-ref"},
+		{"id":"b6166926c458fe5d","fromNode":"448cd68837386cab","fromSide":"bottom","toNode":"9275016b968377bb","toSide":"top","label":"m-a"},
+		{"id":"23d24863610ede61","fromNode":"448cd68837386cab","fromSide":"bottom","toNode":"f4bf048c2e56f034","toSide":"top","label":"gb"},
+		{"id":"8e42d5536d9f2d5b","fromNode":"448cd68837386cab","fromSide":"bottom","toNode":"062f876e5b1e54f7","toSide":"top","label":"ub"},
+		{"id":"a9b665317ba38410","fromNode":"448cd68837386cab","fromSide":"bottom","toNode":"dc76566415be2b60","toSide":"top","label":"la"}
+	]
+}
